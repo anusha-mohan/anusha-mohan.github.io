@@ -1,0 +1,49 @@
+h1 {
+  color: blue;
+  font-size: 50px
+}
+h1.header {
+  color: red;
+}
+h1 {
+  color: yellow;
+}
+img {
+  width: 300px;
+  border-radius: 10px;
+  border-color: blue;
+  border-width: 10px;
+}
+body  {
+  background-color: pink;
+}
+#firsttime {
+  color: green;
+  font-weight: bolder;
+}
+#fancy {
+  color: teal;
+  font-weight: bolder;
+}
+#dogbreeds {
+  font-size: 50px;
+  color: purple;
+  font-weight: bolder;
+}
+#wedid {
+  text-shadow: 1px 1px 1px black;
+font-size: 75px;
+font: comic;
+}
+header {
+  border-style: solid;
+}
+body {
+  background-image: url(338209-background-image.jpg);
+}
+.headers{
+  background-color: violet;
+  border-style: dotted;
+}
+
+}

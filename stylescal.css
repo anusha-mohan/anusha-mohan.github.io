@@ -1,0 +1,15 @@
+.navbar-dark .navbar-brand {
+    color: #004085;
+}
+.jumbotron {
+  background-image: url(theplay.jpg);
+  background-size:cover;
+}
+
+.jumbotron img {
+  height: 280px;
+}
+
+.jumbotron h1 {
+  color: gold
+}

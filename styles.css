@@ -18,9 +18,22 @@ h1 {
 h2 {
   font-family: 'Lato', sans-serif;
   font-style: normal;
+  border-style: solid;
 }
-ingredient list {
-  text-align: right;
+#juicy {
+  font-style: normal;
+font-size: 20pt;
+color: red;
+}
+#tangy {
+  font-style: normal;
+font-size: 20pt;
+color: purple;
+}
+#spicy {
+  font-style: normal;
+font-size: 20pt;
+color: #fd7e14;;
 }
 a {
   font-family: sans-serif;

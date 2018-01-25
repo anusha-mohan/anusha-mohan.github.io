@@ -1,49 +1,29 @@
-h1 {
-  color: blue;
-  font-size: 50px
-}
-h1.header {
-  color: red;
-}
-h1 {
-  color: yellow;
-}
-img {
-  width: 300px;
-  border-radius: 10px;
-  border-color: blue;
-  border-width: 10px;
-}
-body  {
-  background-color: pink;
-}
-#firsttime {
-  color: green;
-  font-weight: bolder;
-}
-#fancy {
-  color: teal;
-  font-weight: bolder;
-}
-#dogbreeds {
-  font-size: 50px;
-  color: purple;
-  font-weight: bolder;
-}
-#wedid {
-  text-shadow: 1px 1px 1px black;
-font-size: 75px;
-font: comic;
-}
-header {
-  border-style: solid;
-}
 body {
-  background-image: url(338209-background-image.jpg);
+  background-color: #787867;
+  font-family: serif;
+  font-style: italic;
 }
-.headers{
-  background-color: violet;
-  border-style: dotted;
+.jumbotron {
+  background-color: green;
+  background-image: url(paleo.jpg);
+  background-size:cover;
+  font-size: 70px
 }
-
+h1 {
+  font-size: 60pt;
+  font-weight: 900;
+  font-family: monospace;
+  text-shadow: 3px 3px 3px black;
+}
+h2 {
+  font-family: 'Lato', sans-serif;
+  font-style: normal;
+}
+ingredient list {
+  text-align: right;
+}
+a {
+  font-family: sans-serif;
+  font-style: normal;
+  color: pink;
 }

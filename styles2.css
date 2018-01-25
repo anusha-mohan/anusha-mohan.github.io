@@ -8,3 +8,13 @@ body {
 .navbar {
   font-family: monospace;
 }
+.card-body {
+  background-color: teal;
+  font-weight: bold;
+  font-family: inherit;
+}
+h3 {
+  font-family: fantasy;
+}
+img {
+  border-style: dashed;

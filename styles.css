@@ -24,16 +24,19 @@ h2 {
   font-style: normal;
 font-size: 20pt;
 color: red;
+font-style: italic;
 }
 #tangy {
   font-style: normal;
 font-size: 20pt;
 color: purple;
+font-style: italic;
 }
 #spicy {
   font-style: normal;
 font-size: 20pt;
 color: #fd7e14;;
+font-style: italic;
 }
 a {
   font-family: sans-serif;

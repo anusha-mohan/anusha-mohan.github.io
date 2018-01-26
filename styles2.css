@@ -12,6 +12,7 @@ body {
   background-color: teal;
   font-weight: bold;
   font-family: inherit;
+  padding: 1.00rem;
 }
 h3 {
   font-family: fantasy;
